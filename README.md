@@ -1,32 +1,29 @@
-### Hi there 👋
-- 🔭 I’m currently working on a task for my Master´s Degree.
+# ¡Hola a todos! :wave:
 
-🤔 pruebas de markdown
+Mi nombre es Óscar García y soy estudié Ingeniería Técnica Industrial con especialización en Electrónica Industrial. Soy un entusiasta de la tecnología y un amante del formato Markdown.
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+## Sobre mí
 
-*test de cursiva*
+- :mortar_board: Actualmente, estoy enfocado en mi educación académica en Ingeniería Técnica Industrial.
+- :computer: Me encanta utilizar Markdown para formatear documentos y crear contenido web de manera sencilla y legible.
 
+## Algunas películas
+Aquí tienes algunas de mis películas favoritas:
 
+| Categoría     | Película               | Director       |
+| ------------- | ---------------------- | ---------------|
+| Acción        | Mad Max: Fury Road    | George Miller  |
+| Ciencia Ficción | Blade Runner 2049  | Denis Villeneuve |
+| Comedia       | The Grand Budapest Hotel | Wes Anderson |
+| Animación     | Toy Story             | John Lasseter  |
+| Drama         | The Shawshank Redemption | Frank Darabont |
 
-|      Frutas     |                      Verduras                                                                                             |
-| :-----------------------: | :---------------------------------------------------------------------------------------------------------------: |
-|   manzana    |               zanahoria          |
-|  pera | pimiento  | 
-| naranja |    pepino     |
+## Gadgets Curiosos
 
+Soy un apasionado de la tecnología y aquí tienes algunos gadgets curiosos que me encantan:
 
-<!--**OscarGarciaArteaga/OscarGarciaArteaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :camera: Cámara instantánea Polaroid.
+- :robot: Robot educativo para aprender programación.
+- :headphones: Auriculares inalámbricos con cancelación de ruido.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
---!>
+¡Siéntete libre de explorar mi perfil y conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/oscargarcia/) para mantenernos en contacto!
