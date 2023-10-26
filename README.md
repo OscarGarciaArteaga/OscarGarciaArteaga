@@ -4,7 +4,7 @@ Mi nombre es Óscar García y soy estudié Ingeniería Técnica Industrial con e
 
 ## Sobre mí
 
-- :mortar_board: Actualmente, estoy enfocado en mi educación académica en Ingeniería Técnica Industrial.
+- :mortar_board: Actualmente, estoy enfocado en mi educación académica para ser profesor (todo lo que me permite el trabajo).
 - :computer: Me encanta utilizar Markdown para formatear documentos y crear contenido web de manera sencilla y legible.
 
 ## Algunas películas
