@@ -26,4 +26,4 @@ Soy un apasionado de la tecnología y aquí tienes algunos gadgets curiosos que 
 - :robot: Robot educativo para aprender programación.
 - :headphones: Auriculares inalámbricos con cancelación de ruido.
 
-¡Siéntete libre de explorar mi perfil y conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/oscargarcia/) para mantenernos en contacto!
+¡Siéntete libre de explorar mi perfil y conectarte conmigo para mantenernos en contacto!
