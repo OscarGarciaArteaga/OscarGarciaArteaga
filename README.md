@@ -6,11 +6,11 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-|      Tabla de test     |                                                                                                                   |
+|      Frutas     |                      Verduras                                                                                             |
 | :-----------------------: | :---------------------------------------------------------------------------------------------------------------: |
-|   Campo 1    |               blablabla           |
-|  Campo 2 | blablabal  | 
-| Campo 3 |    blablabla     |
+|   manzana    |               zanahoria          |
+|  pera | pimiento  | 
+| naranja |    pepino     |
 
 
 <!--**OscarGarciaArteaga/OscarGarciaArteaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
