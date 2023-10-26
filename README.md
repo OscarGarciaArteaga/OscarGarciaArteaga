@@ -8,7 +8,7 @@ Mi nombre es Óscar García y soy estudié Ingeniería Técnica Industrial con e
 - :computer: Me encanta utilizar Markdown para formatear documentos y crear contenido web de manera sencilla y legible.
 
 ## Algunas películas
-Aquí tienes algunas de mis películas favoritas:
+Aquí tienes algunas películas al azar para probar las tablas en markdown:
 
 | Categoría     | Película               | Director       |
 | ------------- | ---------------------- | ---------------|
