@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on a task for my Master´s Degree.
+🤔 pruebas de markdown
 
 <!--
 **OscarGarciaArteaga/OscarGarciaArteaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
